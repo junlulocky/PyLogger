@@ -1,5 +1,5 @@
 # PyLogger
-A light weight python logger package for logging research results etc.
+A light weight python logger package for logging research results etc. Currently more to my own appetite.
 
 
 ## Installation
