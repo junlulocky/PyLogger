@@ -1,0 +1,6 @@
+.DS_Store
+.idea/*
+*.pyc
+build/*
+dist/*
+PyLogger.egg-info
