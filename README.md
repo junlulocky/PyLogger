@@ -29,5 +29,3 @@ logger = set_logger(save_path=save_path)
 something = 'something'
 logger.info('best hyperparmeter: {}'.format(something))  ## save information to log
 ```
-
-### logger bar
